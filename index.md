@@ -7,3 +7,10 @@
 
 - make sure to open port in cloud
 - docker run --name=mk-mysql -p3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_HOST=% -e MYSQL_ROOT_PASSWORD=root -d mysql/mysql-server:8.0.20
+
+### Oracle docker setup with remote connection with system user
+
+- make sure to open port in cloud
+- docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true oracleinanutshell/oracle-xe-11g
+- username : system
+- password : oracle
