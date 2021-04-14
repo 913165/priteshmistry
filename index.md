@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/913165/priteshmistry/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Kafka Docker setup URL
+
+[I'm an inline-style link](https://www.google.com)
+
+[https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,11 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Kafka Docker setup URL
 
-[I'm an inline-style link](https://www.google.com)
 
-[https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
 
 ## Header 2
 ### Header 3
