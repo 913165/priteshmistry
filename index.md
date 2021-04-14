@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Kafka Docker setup URL
-https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html
+[https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html(]https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
 
 ## Header 2
 ### Header 3
