@@ -16,7 +16,7 @@
 ### Kafka simple Prducer
 
  ```java
-   import java.util.Properties;
+        import java.util.Properties;
 	import org.apache.kafka.clients.producer.Producer;
 	import org.apache.kafka.clients.producer.KafkaProducer;
 	import org.apache.kafka.clients.producer.ProducerRecord;
@@ -34,8 +34,8 @@
 			System.out.println("Message sent successfully");
 			producer.close();
 		}
-	 }
-    }
+      }
+
 ```
 
 ### Kafka simple Consumer
