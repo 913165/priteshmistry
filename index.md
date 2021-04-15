@@ -3,7 +3,7 @@
 ### Kafka Docker setup URL
 - [https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
 
-### maven dependencies
+#### maven dependencies
 
 ```maven
                <dependency>
@@ -13,7 +13,7 @@
 		</dependency>
  ```
  
-### Kafka simple Prducer
+#### Kafka simple Prducer
 
  ```java
         import java.util.Properties;
@@ -38,7 +38,7 @@
 
 ```
 
-### Kafka simple Consumer
+#### Kafka simple Consumer
 
  ```java
     public class KafkaSimpleConsumer {
