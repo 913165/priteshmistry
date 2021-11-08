@@ -3,6 +3,10 @@
 ### Kafka Docker setup URL
 - [https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
 
+### Nginx AKS and ACR
+ -[https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtQMZKXPjplgpFWtlgzzksFXXkhq](https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtQMZKXPjplgpFWtlgzzksFXXkhq)
+ 
+
 #### maven dependencies
 
 ```maven
